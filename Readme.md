@@ -42,3 +42,4 @@ git diff: Shows the differences between the working directory and the staging ar
 
 # **Pictures.**
 ![logo](https://github.com/sandeepjadhav1999/gitcode/blob/main/Drawing-1.sketchpad.jpeg)
+![logo](https://github.com/sandeepjadhav1999/gitcode/blob/main/Drawing.sketchpad.jpeg)
