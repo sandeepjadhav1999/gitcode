@@ -37,3 +37,8 @@ git diff: Shows the differences between the working directory and the staging ar
 *git cherry-pick [commit]*: Applies the changes made in a specific commit to the current branch.
 
 *git rm [file]*: Removes a file from both the working directory and the Git repository.
+
+
+
+# **Pictures.**
+![logo](https://github.com/sandeepjadhav1999/gitcode/blob/main/Drawing-1.sketchpad.jpeg)
